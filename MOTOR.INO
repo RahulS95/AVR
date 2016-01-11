@@ -3,8 +3,6 @@ void setup() {
    pinMode(9,OUTPUT);
     pinMode(10,OUTPUT);
      pinMode(11,OUTPUT);
-  // put your setup code here, to run once:
-
 }
 
 void loop() {
@@ -34,7 +32,4 @@ void loop() {
                 digitalWrite(11, LOW);
                   delay(2000);
                   
- 
-  // put your main code here, to run repeatedly:
-
 }
