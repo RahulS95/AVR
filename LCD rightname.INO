@@ -14,7 +14,7 @@ void loop() {
   for (int positionCounter = 0; positionCounter < 29; positionCounter++) {
     // scroll one position right:
     lcd.scrollDisplayRight();
-    delay(300);
+    delay(300) ;
   }
 
  
